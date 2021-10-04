@@ -27,8 +27,6 @@
 
 #pragma once
 
-#include <freertos/queue.h>
-#include <esp_event_base.h>
 #include <esp_wifi.h>
 
 class wifiStation

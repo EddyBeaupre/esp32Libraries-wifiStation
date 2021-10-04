@@ -28,8 +28,8 @@
 #include <sdkconfig.h>
 #include <string.h>
 #include <freertos/FreeRTOS.h>
+#include <esp_wifi.h>
 #include <esp_log.h>
-#include <esp_smartconfig.h>
 
 #include "wifiStation.hpp"
 
